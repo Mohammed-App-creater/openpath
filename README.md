@@ -687,6 +687,8 @@ an address the API does not allow. `CORS_ORIGINS` lists them; by default
 
 - Mohammed Ismail
 - Mohammed Sadik
+- Hayat Abdulfetah
+- Firomsa Girma
 
 ## License
 
